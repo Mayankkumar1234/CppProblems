@@ -1,0 +1,15 @@
+  // int x=10; --> It has less range...
+  // long a=10; ---> It has long range than integer
+  //  long long // that store a very wide range value
+
+  // float a = 21.3332; --> Used to store a decimal value
+   // double --> Used to store a large decimal value
+   // long double --> It stores a very large decimal value.
+
+   // string and getline--> These are used to store a string and character
+    
+  //  string str;
+  //  getline(cin , str);
+  //    cout<< str;
+
+  //  char ch='g';  --> '' = sigle quotes is used to declare a character
