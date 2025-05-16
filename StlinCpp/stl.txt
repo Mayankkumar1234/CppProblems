@@ -1,0 +1,7 @@
+
+C++ Stl :-
+   Divided into four parts...
+     - Algorith
+     - Containers : Vectors ,set , map , queue etc..
+     - Functions
+     - Interators
